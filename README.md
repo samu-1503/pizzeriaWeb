@@ -1,5 +1,3 @@
-# pizzeria_web
-
 <html>
   <head>
     <meta charset="UTF-8">
